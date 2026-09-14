@@ -36,4 +36,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0176-second-highest-salary/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
