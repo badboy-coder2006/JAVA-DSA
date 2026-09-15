@@ -65,6 +65,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -74,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 <!---LeetCode Topics End-->
