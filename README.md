@@ -25,6 +25,7 @@
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@
 | [0682-baseball-game](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
