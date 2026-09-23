@@ -58,6 +58,7 @@
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
@@ -70,6 +71,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
@@ -77,11 +79,13 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 ## Timsort
@@ -155,4 +159,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
