@@ -40,6 +40,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@
 | [0682-baseball-game](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Two Pointers
@@ -76,6 +78,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,6 +91,7 @@
 | [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +105,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
