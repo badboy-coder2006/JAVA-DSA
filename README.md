@@ -78,6 +78,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
+| [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Greedy
@@ -126,6 +127,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
+| [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
