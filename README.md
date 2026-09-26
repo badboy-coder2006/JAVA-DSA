@@ -42,6 +42,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +103,7 @@
 | [0905-sort-array-by-parity](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
