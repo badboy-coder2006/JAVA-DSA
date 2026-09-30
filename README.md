@@ -165,6 +165,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -186,4 +187,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
