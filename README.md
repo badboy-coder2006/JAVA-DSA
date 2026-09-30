@@ -85,6 +85,7 @@
 | [0905-sort-array-by-parity](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0925-long-pressed-name](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -138,6 +139,7 @@
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
+| [0925-long-pressed-name](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
