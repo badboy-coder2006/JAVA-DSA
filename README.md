@@ -39,6 +39,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -81,6 +82,7 @@
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
@@ -195,6 +197,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
