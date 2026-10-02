@@ -64,6 +64,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0682-baseball-game/) | Easy |
@@ -158,6 +159,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Queue
@@ -202,4 +204,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 <!---LeetCode Topics End-->
