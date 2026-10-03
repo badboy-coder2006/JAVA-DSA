@@ -146,6 +146,7 @@
 | [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +157,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0682-baseball-game](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +210,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0566-reshape-the-matrix/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
