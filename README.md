@@ -78,6 +78,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
