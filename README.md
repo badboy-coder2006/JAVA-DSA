@@ -63,6 +63,7 @@
 | [0414-third-maximum-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -163,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0682-baseball-game/) | Easy |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -222,4 +224,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
