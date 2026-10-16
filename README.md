@@ -125,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0205-isomorphic-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -140,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -150,6 +152,7 @@
 | [0205-isomorphic-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0777-swap-adjacent-in-lr-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
