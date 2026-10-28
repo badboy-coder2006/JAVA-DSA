@@ -74,6 +74,7 @@
 | [0905-sort-array-by-parity](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -132,12 +133,14 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -146,6 +149,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -217,6 +221,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1248-count-number-of-nice-subarrays](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
