@@ -159,6 +159,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0709-to-lower-case](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0709-to-lower-case/) | Easy |
 | [0777-swap-adjacent-in-lr-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0777-swap-adjacent-in-lr-string/) | Medium |
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
