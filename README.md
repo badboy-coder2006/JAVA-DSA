@@ -155,6 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0043-multiply-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0205-isomorphic-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -182,6 +183,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0415-add-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0415-add-strings/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0682-baseball-game/) | Easy |
@@ -223,6 +225,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0043-multiply-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0415-add-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0415-add-strings/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
