@@ -38,6 +38,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -63,6 +64,7 @@
 | [0414-third-maximum-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0566-reshape-the-matrix/) | Easy |
@@ -205,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -245,4 +248,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0503-next-greater-element-ii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
