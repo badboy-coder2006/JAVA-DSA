@@ -87,6 +87,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -157,6 +158,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0205-isomorphic-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -223,6 +225,7 @@
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -268,4 +271,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0493-reverse-pairs/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
