@@ -105,6 +105,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2903-find-indices-with-index-and-value-difference-i/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [4030-check-ascii-palindromic](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/4030-check-ascii-palindromic/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@
 | [0925-long-pressed-name](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [4030-check-ascii-palindromic](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/4030-check-ascii-palindromic/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,4 +285,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4030-check-ascii-palindromic](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/4030-check-ascii-palindromic/) | Easy |
 <!---LeetCode Topics End-->
