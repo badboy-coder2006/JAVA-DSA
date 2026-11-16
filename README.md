@@ -9,6 +9,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -16,6 +17,7 @@
 | [0101-symmetric-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -31,6 +33,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -162,6 +165,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0043-multiply-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0043-multiply-strings/) | Medium |
 | [0205-isomorphic-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0205-isomorphic-strings/) | Easy |
+| [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0415-add-strings](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0415-add-strings/) | Easy |
@@ -289,4 +293,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [4030-check-ascii-palindromic](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/4030-check-ascii-palindromic/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
