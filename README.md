@@ -11,6 +11,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -22,6 +23,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -30,6 +32,7 @@
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
