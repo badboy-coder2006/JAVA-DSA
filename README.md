@@ -15,6 +15,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +189,7 @@
 | [0844-backspace-string-compare](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0925-long-pressed-name/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [4030-check-ascii-palindromic](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/4030-check-ascii-palindromic/) | Easy |
@@ -310,4 +314,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 <!---LeetCode Topics End-->
