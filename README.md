@@ -13,6 +13,7 @@
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -27,6 +28,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
@@ -53,6 +55,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0501-find-mode-in-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
@@ -160,6 +163,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -325,4 +329,8 @@
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0257-binary-tree-paths/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 <!---LeetCode Topics End-->
