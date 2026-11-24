@@ -18,6 +18,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Depth-First Search
@@ -33,6 +34,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Breadth-First Search
@@ -43,6 +45,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -57,6 +60,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0508-most-frequent-subtree-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 ## Binary Search Tree
@@ -166,6 +170,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
