@@ -22,6 +22,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +68,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
