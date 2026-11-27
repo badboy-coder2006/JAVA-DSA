@@ -23,6 +23,7 @@
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,6 +41,7 @@
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@
 | [0965-univalued-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0988-smallest-string-starting-from-leaf](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +85,7 @@
 | [0633-sum-of-square-numbers](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -160,6 +164,7 @@
 | [0881-boats-to-save-people](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/badboy-coder2006/JAVA-DSA/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Timsort
